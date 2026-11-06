@@ -1,4 +1,4 @@
-# Cybersecurity-Projects
+# Networks-BO84-week1-Cybersecurity-lab-setup-Projects
 cybersecurity internship projects will be uploaded here every week.
 
 Week 1
